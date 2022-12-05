@@ -6,3 +6,6 @@ Arquivo: idade.py
 
 # 2°EXERCÍCIO - COMPARAÇÃO
 Arquivo: comparacao.py 
+
+# 3°EXERCÍCIO - ÁREA E PERÍMETRO
+Arquivo: areaeperimetro.py 
