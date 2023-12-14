@@ -73,3 +73,10 @@ Nesse repositório terão vários exercícios de python que me ajudaram um pouco
 ### 📋 Pré-requisitos
 
 Ter um ambiente de desenvolvimento OU ter acesso à um ambiente de desenvolvimento online
+
+## OBRIGADA!<3
+
+<div>
+  <img src="https://github.com/GiihGabi/algoritmos/assets/101181715/2e2e4171-11df-4ba6-977d-7fdf3ffcbd37" style="width: 20%;" />
+</div>
+
